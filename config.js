@@ -37,7 +37,7 @@ global.THUMB_IMAGE =
   "https://telegra.ph/file/1f4e6e1cc2ed1662adb36.jpg";
 global.devs = "923135673658";
 global.sudo = process.env.SUDO || "923192173398";
-global.owner = process.env.OWNER_NUMBER || "923192173398";
+global.owner = process.env.OWNER_NUMBER || "923349490167";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "false";
@@ -61,17 +61,17 @@ global.scan = "https://pair-qr-wasi-md.onrender.com";
 
 global.SESSION_ID =
   process.env.SESSION_ID ||
-  "";
+  "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiOEE5YXo4REJ1UWgxbG1zeHIxQVhPMnFYMmxDS3ViQWtkdFlsWDFxcFBXZz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNjFSTmtiVGJYZFpienFaajFFcVpFQnlhMzQ0a3FMbzZaLy9iKzhxaFdoaz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIrSG5JRnl5cGZoZnVkSENtdTRWTzYxd3NiUHRQZUkzbkZTeERCajVqVjBrPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJsWi9kUUJKc3RHNWZqZG14RzRuMTY3Y0FEdjQwdjN6OVgvNjErV2UvNEVFPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Im1CVTlCSzF1clpuSmxiZDlKWHlyaVVFZUN1R0xselV1SkJCRTh0c1dIVm89In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InAvdDJkRmp1WGtOdGVObEgwYkVYM21FdDNocXVIY0ZxYTV5SVIybWtDaTA9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQ0g3SUxNTXhwbXYwOGNrWXdNZ3hqNitzN0lnTFJNbVU4SmFpT1g4TXdtST0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiY1JwT0JaejR5cmNJdzFsTDlLYXZqZU9RZGlZb2NSV2paS2tHTkdiVzJnND0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InlDbzVPUS9rdW9lQ1Z6K2RaN2lTU2tFZ05NVi9uQlBwZXl2MGszTnM0OGUxRG5JZ1BxdkFUUGwwYzc3anZhakNacUtIVzZ4aU9aMDVtVTh0TjdGbWdnPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTk4LCJhZHZTZWNyZXRLZXkiOiJLWkRab3I4WC9pQ2t5L3FTWkdOaVBTVlJCSnI1UnkxRFBOa3RFR2JFcis4PSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiI4ODhFS2pDMlFfU3V3a3Q3WUplUjBnIiwicGhvbmVJZCI6IjVlZDM1OGM2LWUxOTgtNGY3ZS1hNzA2LTAxZTFlNGMzNGI2YSIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJpeS9xQVBnQjd5Z055aW9zUlhlUU5TKytjM2c9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoielV2dER4eHRPR0RtK3g5TFRpVjV2K0xMZkxzPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IjRLWEROWlgyIiwibWUiOnsiaWQiOiI5MjMzNDk0OTAxNjc6MjBAcy53aGF0c2FwcC5uZXQifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ0pDZjNkNEZFT1hSMDdrR0dBRWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6IisyRHhTTmRaZmFpZXRiaXZqQkV2TmJSQU9EZ3JyRjM5dzBQTHRCWHBDeGM9IiwiYWNjb3VudFNpZ25hdHVyZSI6IjJPWno3L3RoVXJQeHY3ZlMwVCt4YUluVm9CQ29uS3ZQMzRCWGZGU1poQmJYQTg5T3FGa1JTQ2JjZUVVd05HUnA2cHBRZGpMUWZ1Rm9Xa3Ryb0l6U0NnPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJPSHVHTHJrR2NqS0FkRHgxdFhlaExLRUcyaEpzbDhlLzgzZVNqczFCVlpMcHg5Sll1azE5K0QvT2ltU0JQVHVFSm5kZzNOWkpxY2xzZUpqaHBTVU5pZz09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjkyMzM0OTQ5MDE2NzoyMEBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJmdGc4VWpYV1gyb25yVzRyNHdSTHpXMFFEZzRLNnhkL2NORHk3UVY2UXNYIn19XSwicGxhdGZvcm0iOiJhbmRyb2lkIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzMxNTIwNzUzLCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQVBnLyJ9";
 module.exports = {
   menu: process.env.MENU || "",
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "𝐅𝐈𝐋𝐄-𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃-𝐁𝐘-𝐖𝐀𝐒𝐈-𝐌𝐃-𝐕2😍",
-  author: process.env.PACK_AUTHER || "WASO",
+  caption: process.env.CAPTION || "𝐅𝐈𝐋𝐄-𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃-𝐁𝐘-CRAZY-𝐌𝐃-𝐕2😍",
+  author: process.env.PACK_AUTHER || "NAINI",
   packname: process.env.PACK_NAME || "♥️",
-  botname: process.env.BOT_NAME || "𝐖𝐀𝐒𝐈-𝐌𝐃-𝐕2",
-  ownername: process.env.OWNER_NAME || "WASI",
+  botname: process.env.BOT_NAME || "BROKEN",
+  ownername: process.env.OWNER_NAME || "NAINI",
   errorChat: process.env.ERROR_CHAT || "923192173398",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
